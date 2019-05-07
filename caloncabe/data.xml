@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<lib	
+	
+	lifesnow="3"
+	maxtime="300"
+	filesave="submit.php?m=game&f=vongquay">
+	
+	<question answer1="Matropole" answer2="White Palace"   da="2"><![CDATA[Đêm sinh nhật mừng TodayTV tròn 5 tuổi diễn ra ở đâu?]]></question>
+	<question answer1="19.7.2013" answer2="20.7.2013"   da="1"><![CDATA[Đêm sinh nhật mừng TodayTV tròn 5 tuổi diễn ra vào ngày nào?]]></question>
+	<question answer1="TodayTV gia nhập SCTV" answer2="Mừng TodayTV tròn 5 tuổi"   da="2"><![CDATA[Cuộc thi "Ngàn lời chúc yêu thương" được TodayTV tổ chức nhân dịp gì?]]></question>
+	<question answer1="3.7.2013" answer2="4.7.2013"   da="1"><![CDATA[TodayTV gia nhập SCTV vào ngày nào?]]></question>
+	<question answer1="Kênh số 50" answer2="Kênh số 51"   da="1"><![CDATA[Khán giả có thể đón xem TodayTV trên kênh số mấy trên hệ thống SCTV?]]></question>
+
+	<question answer1="17.8.2013" answer2="18.7.2013"   da="2"><![CDATA[Các diễn viên Philippines đến Việt Nam vào ngày mấy?]]></question>
+	<question answer1="Rex" answer2="Caravelle"   da="2"><![CDATA[Họp báo đón diễn viên Philippines được tổ chức ở đâu?]]></question>
+	<question answer1="Bức tranh nhiều dấu tay của người hâm mộ TodayTV" answer2="Bức tranh nhiều chữ ký của người hâm mộ TodayTV"   da="1"><![CDATA[Vào ngày 19.7.2013 TodayTV đã thiết lập kỷ lục Guiness bằng tác phẩm nào?]]></question>
+	<question answer1="Carla Abellana, Michelle Madrigal và Marc Abaya" answer2="Carla Abellana, Michelle Madrigal và Dennis Trillo"   da="2"><![CDATA[Diễn viên Philippines đến Việt Nam bao gồm những ai?]]></question>
+	<question answer1="Các ca sĩ với những màn trình diễn sôi động" answer2="Các bó hoa tươi tặng khán giả hâm mộ"   da="1"><![CDATA[Điều bí mật trong 5 hộp quà được TodayTV đặt tại 5 siêu thị là gì?]]></question>
+
+	<question answer1="Michelle Madrigal" answer2="Maxene Magalona"   da="2"><![CDATA[Vai Stella trong phim "Ngoại tình" do nữ diễn viên nào thủ vai?]]></question>
+	<question answer1="Michelle Madrigal" answer2="Dingdong Dantes"   da="1"><![CDATA[Trong phim "Ngoại tình" người xem được gặp lại ngôi sao nào từng xuất hiện trong phim "Thiên đường lạc lối"?]]></question>
+	<question answer1="Dina" answer2="Runa"   da="1"><![CDATA[Trong phim "Ngoại tình", trước khi cưới Stella, Kevin đã yêu ai?]]></question>
+	<question answer1="Son" answer2="Vill"   da="2"><![CDATA[Nickname của diễn viên Thái Wannarot Sonthichai (đóng trong phim "Đêm định mệnh") là gì?]]></question>
+	<question answer1="1988" answer2="1989"   da="2"><![CDATA[Nữ diễn viên Thái Wannarot Sonthichai đóng trong phim "Đêm định mệnh" sinh năm mấy?]]></question>
+
+	<question answer1="Nam Petch" answer2="Kaew Kao"   da="1"><![CDATA[Con gái thật sự của Lada trong phim "Đêm định mệnh" là ai?]]></question>
+	<question answer1="Copywriter" answer2="Phóng viên"   da="1"><![CDATA[Duy Quang trong phim "Tình như chiếc bóng" làm nghề gì?]]></question>
+	<question answer1="Mi Sa" answer2="Thảo Bình"   da="2"><![CDATA[Trong phim "Tình như chiếc bóng" em gái nhân vật Thảo Nhân tên gì?]]></question>
+	<question answer1="Vân Navy" answer2="Thu Hà"   da="1"><![CDATA[Nhân vật Mi Sa trong phim "Tình như chiếc bóng" do diễn viên nào đóng?]]></question>
+	<question answer1="Phục vụ quán café" answer2="Giúp việc nhà theo giờ"   da="2"><![CDATA[Trong phim "Tình như chiếc bóng" nhân vật Thảo Nhân làm nghề gì?]]></question>
+	
+</lib>

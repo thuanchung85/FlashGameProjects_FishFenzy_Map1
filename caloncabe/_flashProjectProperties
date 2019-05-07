@@ -1,0 +1,28 @@
+<projectDescription>
+  <id>1327982757774</id>
+  <name>gamelevel1</name>
+  <asVersion>0</asVersion>
+  <boundTemplate>file:///C|/Users/Chung/AppData/Local/Adobe/Flash CS5/en_US/Configuration/ActionScript 3.0/Templates/boundClass_as3.as</boundTemplate>
+  <classTemplate>file:///C|/Users/Chung/AppData/Local/Adobe/Flash CS5/en_US/Configuration/ActionScript 3.0/Templates/standardClass_as3.as</classTemplate>
+  <classPath>.</classPath>
+  <defaultApp>file:///D|/game nhiu tap/CaTap1/caloncabe/gamelevel1.fla</defaultApp>
+  <rootURI>file:///D|/game nhiu tap/CaTap1/caloncabe/</rootURI>
+  <flexSDK/>
+  <sources editable="false"/>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false"/>
+  <recentFiles editable="false">
+    <uri label="QuaTrung.as">file:///D|/game nhiu tap/CaTap1/caloncabe/QuaTrung.as</uri>
+    <uri label="Main.as">file:///D|/game nhiu tap/CaTap1/caloncabe/Main.as</uri>
+    <uri label="GameScore.as">file:///D|/game nhiu tap/CaTap1/caloncabe/GameScore.as</uri>
+    <uri label="FormTracNghiem.as">file:///D|/game nhiu tap/CaTap1/caloncabe/FormTracNghiem.as</uri>
+    <uri label="CaManager.as">file:///D|/game nhiu tap/CaTap1/caloncabe/CaManager.as</uri>
+    <uri label="FORMSUBMIT.as">file:///D|/game nhiu tap/CaTap1/caloncabe/FORMSUBMIT.as</uri>
+    <uri label="CauTrucTracNghiem.as">file:///D|/game nhiu tap/CaTap1/caloncabe/CauTrucTracNghiem.as</uri>
+    <uri label="CaPlayer.as">file:///D|/game nhiu tap/CaTap1/caloncabe/CaPlayer.as</uri>
+    <uri label="CauTrucCauHoi.as">file:///D|/game nhiu tap/CaTap1/caloncabe/CauTrucCauHoi.as</uri>
+    <uri label="data.xml">file:///D|/game nhiu tap/CaTap1/caloncabe/data.xml</uri>
+  </recentFiles>
+  <locations editable="false"/>
+</projectDescription>

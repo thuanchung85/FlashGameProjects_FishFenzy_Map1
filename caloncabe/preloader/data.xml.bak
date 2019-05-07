@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<lib	
+	
+	
+	maxtime="300"
+	playername="ABCDEF"
+	avatarpic="gh1.jpg"
+	
+	playername1="nguoi1"
+	avatarpic1="gh1.jpg"
+	
+	playername2="nguoi2"
+	avatarpic2="gh1.jpg"
+	
+	playername3="nguoi3"
+	avatarpic3="gh1.jpg"
+	
+	playername4="nguoi4"
+	avatarpic4="gh1.jpg"
+	
+	playername5="nguoi5"
+	avatarpic5="gh1.jpg"
+	
+	diemcu="1110"
+	allowplay="1"
+	thoigiancho="20"
+	filesave="submit.php?m=game&f=vongquay">
+	
+	<question answer1="Có" answer2="Không"   da="2"><![CDATA[Trong bộ phim Gia tộc nổi sóng, Nastasha có phải là con ruột của Cesar không?]]></question>
+	<question answer1="Phát hiện gian lận" answer2="Nhờ nhan sắc"   da="1"><![CDATA[Vì sao Diana được tăng chức chỉ sau một ngày làm việc tại Legacy?]]></question>
+	<question answer1="Cùng yêu một người" answer2="Ganh đua trong công việc"   da="1"><![CDATA[Nguyên nhân nào làm Yu Ra vô cùng căm ghét Yun Hwa?]]></question>
+	<question answer1="Có" answer2="Không"   da="2"><![CDATA[Ba Yu Ra và mẹ Yun Hwa tái hôn có nhận được sự đồng tình của hai bên gia đình không?]]></question>
+	<question answer1="Yun Hwa" answer2="Yu Ra"   da="2"><![CDATA[Hung thủ thật sự của vụ tai nạn giao thông làm chết em gái Yun Jae là ai?]]></question>
+
+	<question answer1="Bị hàng xóm bàn tán" answer2="Người yêu lấy vợ"   da="2"><![CDATA[Khi được về chịu tang mẹ, nhân vật Yun Hwa trong phim Lửa hận tình thù chứng kiến thêm chuyện gì sau đó?]]></question>
+	<question answer1="Trả thù" answer2="Bỏ qua và làm lại từ đầu"   da="1"><![CDATA[Sau khi ra tù, Yun Hwa trong phim Lửa hận tình thù sẽ trả thù hay sẽ sống cuộc sống mới?]]></question>
+	<question answer1="Ly hôn" answer2="Bị đuổi việc ở Sài Gòn"   da="1"><![CDATA[Trong Cù lao lúa, vì sao bác sĩ Danh về miệt cù lao làm việc?]]></question>
+	<question answer1="Để che giấu việc làm xấu" answer2="Mắc cỡ với mọi người"   da="1"><![CDATA[Sáu Chảnh trong Cù lao lúa là kẻ xấu nhưng tại sao cô luôn giả vờ ngây thơ?]]></question>
+	<question answer1="Vì mặc cảm nhà nghèo" answer2="Ghét tên công tử coi trời bằng vung"   da="2"><![CDATA[Trong Cù lao lúa, vì sao Mận thích Hai Ruộng nhưng nhất quyết không bộc lộ?]]></question>
+
+	<question answer1="Không tin vào khả năng của con" answer2="Lương ít trách nhiệm nhiều"   da="2"><![CDATA[Bà Ba Của trong Cù lao lúa không thích con gái mình làm y tá, vì sao? ]]></question>
+	<question answer1="Út Lì là con cầu con khẩn" answer2="Út Lì èo uột, khó nuôi"   da="1"><![CDATA[Trong Cù lao lúa, vì sao vợ chồng Cả Cạo lúc nào cũng cưng chìu Út Lì thái quá?]]></question>
+	<question answer1="Sợ ba" answer2="Sợ công an"   da="1"><![CDATA[Út Lì con vợ chồng Cả Cạo trong Cù lao lúa khắc chữ "Sợ ai?" trên tóc, vậy Út Lì thật sự sợ ai?]]></question>
+	<question answer1="Vì gia đình Eva là nguồn tài chính quý giá" answer2="Vì nghĩ rằng Ceser yêu Eva"   da="1"><![CDATA[Trong bộ phim Gia tộc nổi sóng, vì sao gia đình ông Cesar muốn ông cưới Eva?]]></question>
+	<question answer1="Yun Jae" answer2="Yu Ra"   da="2"><![CDATA[Nhân vật Yun Hwa trong phim Lửa hận tình thù mang tội gián điệp công nghiệp do bàn tay sắp đặt của ai?]]></question>
+
+	<question answer1="Lee Yu Ri" answer2="Hyun Wo Sung"   da="1"><![CDATA[Nữ diễn viên Hàn Quốc nào được mệnh danh là "Nữ hoàng nước mắt" trong phim Tình yêu và tham vọng?]]></question>
+	<question answer1="Lấy nhiều vợ" answer2="Chín đời chỉ sinh con một"   da="2"><![CDATA[Gia đình của nhân vật Đới Xuân Dần trong phim Như Ý - Cát Tường có truyền thống gì?]]></question>
+	<question answer1="Tào Nhân Quảng" answer2="Thường Cát Tường"   da="1"><![CDATA[Ai bày mưu tính kế chiếm gia tài sản nghiệp của gia đình họ Đới trong phim Như Ý - Cát Tường?]]></question>
+	<question answer1="Khang Hy" answer2="Võ Tắc Thiên"   da="1"><![CDATA[Bộ phim Như Ý - Cát Tường diễn ra trong bối cảnh đời vua nào?]]></question>
+	<question answer1="Làm vợ thiếu gia họ Đới" answer2="Làm tì nữ"   da="2"><![CDATA[Thường Cát Tường trong bộ phim Như Ý - Cát Tường được gia đình họ Đới mua về làm gì?]]></question>
+
+
+	
+	
+</lib>
